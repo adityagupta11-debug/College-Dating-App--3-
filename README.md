@@ -1,11 +1,4 @@
 
-  # College Dating App
-
-  This is a code bundle for College Dating App. The original project is available at https://www.figma.com/design/h1IighE64Yi29UxpScokW3/College-Dating-App.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
+  # Spark'd
+  🔥 Spark’d: Where Sun Devils Find Their Match 🔥 Spark’d is the dating app made exclusively for Arizona State University students — built by Sun Devils, for Sun Devils. Match with fellow ASU students based on your interests, music taste, and personal preferences, and let the app do the magic.
   
